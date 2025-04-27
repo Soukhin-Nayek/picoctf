@@ -1,0 +1,1 @@
+# as we are sending the string to printf and it has %s it will generate segmentation fault 
